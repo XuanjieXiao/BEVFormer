@@ -66,6 +66,7 @@ note: this pretrained model is the same model used in [detr3d](https://github.co
 ```
 pip install mmcv-full==1.4.0 -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.10.0/index.html
 pip install mmdet==2.14.0 -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+pip install mmsegmentation==0.14.1 -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
 pip install python-dateutil==2.8.2
 pip install pyzmq==23.0
 ```
