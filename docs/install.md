@@ -25,7 +25,7 @@ conda install -c omgarcia gcc-6 # gcc-6.2
 **c. Install mmcv-full.**
 ```shell
 pip install mmcv-full==1.4.0
-#  pip install mmcv-full==1.4.0 -f https://download.openmmlab.com/mmcv/dist/cu111/torch1.9.0/index.html
+#  pip install mmcv-full==1.4.0 -f https://download.openmmlab.com/mmcv/dist/cu115/torch1.11.0/index.html
 ```
 
 **d. Install mmdet and mmseg.**
